@@ -1,3 +1,14 @@
+# PizzaLand multi-page website
+This website was created with HTML,CSS and React.js.
+
+Some Previews:
+
+![PizzLand-React](https://github.com/mhakby/PizzaLand-React.js/assets/123645842/215b7692-a508-468f-bdb3-22c44dc9daa1)
+
+![PizzLand-React](https://github.com/mhakby/PizzaLand-React.js/assets/123645842/a8d64333-ae40-452e-aff5-940f993a6f4c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
